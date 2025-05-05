@@ -9,7 +9,7 @@ penjelasan tentang javascript dalam HTML
 <br>JavaScript adalah skip pemograman ringan yang umumnya digunakan oleh web developer untuk menciptakan interaksi yang lebih dinamis saat membuat halaman web, aplikasi, server, atau, game. JavaScript berfungsi untuk membuat elemen yang mampu meningkatkan interaksi pengunjung seperti menu drop-down, animasi, dan warna background dinamis. Web developer biasanya menggunakan JavaScript bersama HTML dan CSS karena ketiganya bisa bekerja sama tanpa masalah. JavaScript adalah skrip pemogramannya, HTML berfungsi untuk menyusun struktur website, dan CSS untuk mendesain serta mengatur layout halaman website.
 <br>
 
-<img src="/assets/image/js.png" width="300" >
+<img src="/assets/images/JavaScript-Logo.png" width="300" >
 
 <br>
 Sejarah singkat, JavaScript dimulai pada tahun 1995, diciptakan oleh Brendan Eich di Nestcape Communications. Awalnya, JavaScript hanya digunakan untuk keperluan internal dengan web browser perusahaan tersebut, Netscape Navigator. Dulunya, JavaScript bernama LiveScript, yang kemudian diubah menjadi JavaScript agar bisa menjadi "teman" bagi bahasa pemograman Java milik mitra mereka, Sun Microsystems.
