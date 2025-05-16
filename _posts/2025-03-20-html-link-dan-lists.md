@@ -3,7 +3,7 @@ layout: post
 title: "HTML Link dan Lists"
 ---
 
-penjelasan tentang link dan list pada html
+HTML LINK dan LISTS - Penjelasan tentang link dan list pada html
 
 <li><b>LIST dalam HTML</b></li>
 List merupakan cara penulisan yang sering digunakan untuk membuat daftar berurutan. Terdapat 3 macam list yang ada di HTML yaitu <b>ordered list</b>, <b>unordered list</b> dan <b>description list</b>. Cara membuat list di HTML tentunya berbeda-beda sesuai jenisnya. Ketiga macam list HTML tersebut juga memiliki tampilan dan fungsi yang berbeda.<br><br>Perbedaan penulisan ketiga jenis ini terdapat pada pembuka dan penutupnya saja. Sedangkan untuk membuat item pada ordered dan unordered list menggunakan elemen yang sama yaitu < li > ... < /li >. Untuk mengetahui lebih dalam masing-masing list tersebut kita akan bahas satu-persatu.

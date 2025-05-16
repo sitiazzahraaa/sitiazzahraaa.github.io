@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: Jekyll dan Ruby
+title: JEKYLL dan RUBY
 ---
 
-Penjelasan mengenai Jekyll dan Ruby
+JEKYLL dan RUBY - Penjelasan mengenai Jekyll dan Ruby
 
 <li><b>Jekyll</b></li>
 Jekyll adalah generator situs statis <i>(static site generator)</i> berbasis Ruby yang mengubah teks biasa menjadi website atau blog modern. Tools ini sangat populer dikalangan developer dan blogger tech-savvy karena kecepatan, keamanan, dan kemudahan integrasinya dengan GitHub Pages.
