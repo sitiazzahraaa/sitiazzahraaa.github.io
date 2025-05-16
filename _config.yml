@@ -1,3 +1,10 @@
+title: Siti Azzahra
+email: sitiazzahraaaaa@gamil.com
+description: > # this means to ignore newLines until "baseurl:"
+ A personal blog by Siti azzahra, a student at Politeknik Negeri Lhoksemawe.
+ This blog is built using jekyll and hosted on GitHub Pages.
+ The Content is primarily In Indonesian, but some posts may be in English 
+ 
 url: "https://sitiazzahraaa.github.io" 
 
 plugins:
